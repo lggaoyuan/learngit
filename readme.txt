@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Creating a new branch is quick AND simple haha.
 add some data
 add other data
+resolve issue-100 cost 5 minutes
